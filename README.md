@@ -1,8 +1,6 @@
 # Create an ETL Job using AWS Glue Studio, S3, & Athena
 
-<figure>
-  <img src="" alt="Data warehouse representation" width=60% height=60%>
-</figure>
+
 ## Background
 
 In this project, we will walk through how to create an ETL job using the following AWS Cloud Services:
