@@ -1,7 +1,7 @@
 # Create an ETL Job using AWS Glue Studio, S3, & Athena
 
 <figure>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQE_gM7J-F-zJr5ENSCemdOdgMDV9iNKk7Ww&s" alt="Data warehouse representation" width=60% height=60%>
+  <img src="" alt="Data warehouse representation" width=60% height=60%>
 </figure>
 ## Background
 
